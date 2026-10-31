@@ -18,8 +18,8 @@ To set up your local environment and start coding locally, do the following:
 1. Open your terminal and navigate to where you want to store the repo.
 1. Clone the repo by running `git clone <your-repository-url>`.
 1. Navigate to the repo's directory by running `cd <directory-name>`.
-1. Install the repo's dependencies by running `npm install` or `yarn install`.
-1. Install the Wix CLI by running `npm install -g @wix/cli` or `yarn global add @wix/cli`.  
+1. Install the repo's dependencies by running `pnpm install`.
+1. Install the Wix CLI by running `pnpm add -g @wix/cli`.  
    Once you've installed the CLI globally, you can use it with any Wix site's repo.
 
 For more information, see [Setting up Git Integration & Wix CLI](https://support.wix.com/en/article/velo-setting-up-git-integration-wix-cli-beta).

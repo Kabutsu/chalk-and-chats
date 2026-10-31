@@ -1,0 +1,10 @@
+node_modules/
+.wix/
+embeds/dist/
+pnpm-lock.yaml
+wix.lock
+wix.config.json
+src/pages/README.md
+src/backend/README.md
+src/public/README.md
+README.md

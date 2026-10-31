@@ -1,0 +1,7 @@
+/* Design tokens: colours, type scale, spacing. Placeholder values, replace with brand values. */
+:root {
+  --cc-colour-primary: #1a1a1a;
+  --cc-colour-accent: #e4572e;
+  --cc-font-body: system-ui, sans-serif;
+  --cc-space-m: 1rem;
+}
